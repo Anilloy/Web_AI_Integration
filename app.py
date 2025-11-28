@@ -1,1 +1,1 @@
-import Streamlit as st
+import streamlit as st
